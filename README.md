@@ -114,7 +114,7 @@ Proyek ini ditujukan untuk UAP dari Kelompok 8
 1. Kelvin Pratama (202310370311382)
 2. Erwin Dinata   (202310370311370)
 3. M Alfa Rizky   (202310370311379)
-
+4. Dandy F        (202310370311341)
 
 ---
 
